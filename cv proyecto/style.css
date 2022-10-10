@@ -1,0 +1,78 @@
+body,html{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.img-profile{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.nameydata{
+    display: flex;
+    justify-content: center;
+}
+
+.datos{
+    display: flex;
+    justify-content: center;
+}
+
+.skills{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.educacion{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center; 
+}
+
+.experience{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.cursos{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.taller{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.congres{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.certification{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.presentation{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
